@@ -67,7 +67,7 @@ export default function Navbar() {
           >
 
             <Image
-             src="/assets/logoT.png"
+             src="/assets/logoF.jpeg"
   alt="THUK Studio"
   width={160}
   height={83}
@@ -76,9 +76,9 @@ export default function Navbar() {
     w-[145px]
     sm:w-[170px]
     lg:w-[195px]
-    -mt-5
-    sm:-mt-7
-    lg:-mt-8
+    -mt-1
+    sm:-mt-2
+    lg:-mt-3
     object-contain
     transition-transform
     duration-300
