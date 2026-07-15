@@ -76,9 +76,9 @@ export default function Navbar() {
     w-[145px]
     sm:w-[170px]
     lg:w-[195px]
-    -mt-1
-    sm:-mt-2
-    lg:-mt-3
+    mt-1
+    sm:mt-2
+    lg:mt-2
     object-contain
     transition-transform
     duration-300
